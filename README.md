@@ -1,14 +1,24 @@
-Presentación 
-## Hola 🖖 me llamo Zuelem
+# 👋 Hola, soy Zuelem
 
-Aprendizaje
-## Actualemente estudio y me entretengo 😊 con retos de Full Stack Java en un bootcamp de Generation.
+💡 Terapeuta de profesión | 💻 Aprendiendo Full Stack Java
 
-Herramientas 
-## Estoy comenzando a familiarizarme con Github y Git. 
+## 🌱 Aprendizaje
+Actualmente estudio y me entretengo 😊 con retos de **Full Stack Java** en un bootcamp de Generation.
 
-Metas
-## Me interesa desarrollar softwares amigables para hacer mas fácil la vida de las personas 🙌🌈
+## 🛠️ Herramientas
+Estoy comenzando a familiarizarme con:
+- Git  
+- GitHub  
 
-Frase 
-## -"El futuro tiene muchos nombres. .. Para los valientes es la oportunidad".-Victor Hugo.
+## 🧠 Sobre mí
+Mi formación como terapeuta me permite entender mejor a las personas, lo que quiero integrar en el desarrollo de software para crear soluciones más humanas y accesibles.
+
+## 🎯 Metas
+Me interesa desarrollar softwares amigables que realmente mejoren la vida de las personas 🙌🌈
+
+## ✨ Frase
+> "El futuro tiene muchos nombres.  
+> Para los débiles es lo inalcanzable,  
+> para los temerosos es lo desconocido,  
+> y para los valientes es la oportunidad."  
+> — Víctor Hugo
