@@ -2,18 +2,18 @@
 
 💡 Terapeuta de profesión | 💻 Aprendiendo Full Stack Java
 
-## 🌱 Aprendizaje
+##  Aprendizaje
 Actualmente estudio y me entretengo 😊 con retos de **Full Stack Java** en un bootcamp de Generation.
 
-## 🛠️ Herramientas
+##  Herramientas
 Estoy comenzando a familiarizarme con:
 - Git  
 - GitHub  
 
-## 🧠 Sobre mí
+## Sobre mí
 Mi formación como terapeuta me permite entender mejor a las personas, lo que quiero integrar en el desarrollo de software para crear soluciones más humanas y accesibles.
 
-## 🎯 Metas
+## Metas
 Me interesa desarrollar softwares amigables que realmente mejoren la vida de las personas 🙌🌈
 
 ## ✨ Frase
