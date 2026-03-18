@@ -1,22 +1,24 @@
-# 👋 Hola, soy Zuelem
+<p align="center">
+  <img src="Banner.png" width="100%">
+</p>
 
-💡 Terapeuta de profesión | 💻 Aprendiendo Full Stack Java
+🌸 Terapeuta de profesión | 💻 Aprendiendo Desarrollo Full Stack (Java)
 
-##  Aprendizaje
-Actualmente estudio y me entretengo 😊 con retos de **Full Stack Java** en un bootcamp de Generation.
+## Actualmente
+Estudio y disfruto 😊 resolviendo retos de desarrollo en un bootcamp de Generation.
 
-##  Herramientas
-Estoy comenzando a familiarizarme con:
+## Herramientas
+Estoy comenzando a trabajar con:
 - Git  
 - GitHub  
 
 ## Sobre mí
-Mi formación como terapeuta me permite entender mejor a las personas, lo que quiero integrar en el desarrollo de software para crear soluciones más humanas y accesibles.
+Mi formación como terapeuta me permite comprender mejor a las personas, y quiero aplicar esa mirada en el desarrollo de software para crear soluciones accesibles y centradas en el usuario.
 
 ## Metas
-Me interesa desarrollar softwares amigables que realmente mejoren la vida de las personas 🙌🌈
+Quiero desarrollar software intuitivo que tenga un impacto real en la vida de las personas 🙌🌈
 
-## ✨ Frase
+## Frase
 > "El futuro tiene muchos nombres.  
 > Para los débiles es lo inalcanzable,  
 > para los temerosos es lo desconocido,  
