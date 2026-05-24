@@ -17,10 +17,3 @@ Mi formación como terapeuta me permite comprender mejor a las personas, y quier
 
 ## Metas
 Quiero desarrollar software intuitivo que tenga un impacto real en la vida de las personas 🙌🌈
-
-## Frase
-> "El futuro tiene muchos nombres.  
-> Para los débiles es lo inalcanzable,  
-> para los temerosos es lo desconocido,  
-> y para los valientes es la oportunidad."  
-> — Víctor Hugo
